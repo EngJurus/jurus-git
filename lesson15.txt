@@ -1,0 +1,9 @@
+lesson-15 and related ones.
+git bush--ayaan adeegsan doonaa.
+creating github account.
+check you directory. pwd
+change the directory. cd d:\jurus-github
+ls . soo list gareey.
+ls -a. wixii qarsan keen.
+git status. status-ka eeg.
+git log --oneline. soo daabac.
